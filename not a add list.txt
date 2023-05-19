@@ -1,0 +1,29 @@
+not a add list
+
+
+1. retailclient order perview
+2. selforder perview
+3. home
+4. user client add
+5. user employee add
+6. user retail client
+7. exhibition stock add
+8.  exhibition stock edit
+9.  exhibition stockn list
+10. forget password
+11. interview from add
+12. interview from edit
+13. interview from list
+14. interview from print
+15. login
+
+
+
+
+
+
+global&local variable,events
+while loop,do while loop,for loop
+break&continue statement,array
+even/odd number with loop,nested loop
+nested loop examples
